@@ -37,3 +37,7 @@ If Skyrim was installed to `C:\GOG Games\Skyrim Anniversary Edition`, set the va
 ```plaintext
 C:\GOG Games\Skyrim Anniversary Edition\
 ```
+
+## References
+
+- [Official documentation](https://dyndolod.info/)
