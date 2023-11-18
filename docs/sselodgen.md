@@ -45,6 +45,8 @@ If Skyrim was installed to `C:\GOG Games\Skyrim Anniversary Edition`:
 
 </details>
 
+LOD generation time: ~30 minutes.
+
 ### Reset settings
 
 If Skyrim was installed to `C:\GOG Games\Skyrim Special Edition`, delete the following file:
