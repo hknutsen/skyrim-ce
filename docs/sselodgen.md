@@ -16,7 +16,13 @@ If Skyrim was installed to `C:\GOG Games\Skyrim Anniversary Edition`:
 
 ## Reset settings
 
-Delete the following file:
+If Skyrim was installed to `C:\GOG Games\Skyrim Special Edition`, delete the following file:
+
+```plaintext
+C:\Users\<USERNAME>\AppData\Local\Skyrim Special Edition GOG\plugins.sseviewsettings
+```
+
+If Skyrim was installed to `C:\GOG Games\Skyrim Anniversary Edition`, delete the following file:
 
 ```plaintext
 C:\Users\<USERNAME>\AppData\Local\Skyrim Anniversary Edition GOG\plugins.sseviewsettings
