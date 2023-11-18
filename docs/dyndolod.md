@@ -20,7 +20,19 @@ If Skyrim was installed to `C:\GOG Games\Skyrim Anniversary Edition`:
 
 1. Run `TexGen` with default settings.
 
+    Settings:
+
+    - [x] HD Trees
+
+    Estimated generation time: ~2 minutes.
+
 1. Run `DynDOLOD` for all worldspaces with the `Medium` preset.
+
+    Settings:
+
+    - [x] Ultra Tree LOD
+
+    Estimated generation time: ~? minutes.
 
 ## Troubleshooting
 
