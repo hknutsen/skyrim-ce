@@ -16,3 +16,7 @@ The goal of this modding guide is to achieve the following while maintaining the
   - Distant terrain
   - Distant objects
 - Increase variety of weapons, armors and clothing.
+
+## Contributing
+
+See [Contributing guidelines](CONTRIBUTING.md).
