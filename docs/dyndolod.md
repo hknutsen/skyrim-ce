@@ -16,7 +16,7 @@
 
     - [x] Ultra Tree LOD
 
-    Estimated generation time: ~? minutes.
+    Estimated generation time: ~15 minutes.
 
 ## Troubleshooting
 
