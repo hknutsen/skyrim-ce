@@ -4,7 +4,7 @@ A vanilla+ modding guide for [The Elder Scrolls V: Skyrim Anniversary Edition on
 
 ## Goals
 
-The goal of this modding guide is to achieve the following while maintaining the vanilla Skyrim art style:
+The goal of this modding guide is to achieve the following while maintaining the look and feel of vanilla Skyrim:
 
 - Fix bugs
 - Improve graphical fidelity:
