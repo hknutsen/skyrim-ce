@@ -15,7 +15,10 @@ The goal of this modding guide is to achieve the following while maintaining the
   - Lighting
   - Distant terrain
   - Distant objects
-- Increase variety of weapons, armors and clothing.
+- Increase item variety:
+  - Weapons
+  - Armors
+  - Clothing
 
 ## System requirements
 
