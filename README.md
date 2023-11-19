@@ -19,7 +19,8 @@ The goal of this modding guide is to achieve the following while maintaining the
   - Weapons
   - Armors
   - Clothing
-- Improve quality of life:
+- Improve "quality of life":
+  - User interface
   - Crafting
 
 ## System requirements
