@@ -17,6 +17,16 @@ The goal of this modding guide is to achieve the following while maintaining the
   - Distant objects
 - Increase variety of weapons, armors and clothing.
 
+## System requirements
+
+Specifications at the time of writing this modding guide:
+
+- **System:** Windows 10 (64-bit version)
+- **Processor:** Intel i5-4690K
+- **Memory:** 16 GB RAM
+- **Graphics:** NVIDIA GTX 970 4GB
+- **Storage:** 26 GB available space
+
 ## Contributing
 
 See [Contributing guidelines](CONTRIBUTING.md).
