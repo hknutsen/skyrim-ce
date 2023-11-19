@@ -7,7 +7,7 @@ A vanilla+ modding guide for [The Elder Scrolls V: Skyrim Anniversary Edition on
 The goal of this modding guide is to achieve the following while maintaining the vanilla Skyrim art style:
 
 - Fix bugs
-- Increase graphical fidelity:
+- Improve graphical fidelity:
   - Mountains
   - Water
   - Trees
@@ -15,7 +15,7 @@ The goal of this modding guide is to achieve the following while maintaining the
   - Lighting
   - Distant terrain
   - Distant objects
-- Increase item variety:
+- Improve item variety:
   - Weapons
   - Armors
   - Clothing
