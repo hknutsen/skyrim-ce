@@ -22,12 +22,14 @@ The goal of this modding guide is to achieve the following while maintaining the
 
 ## System requirements
 
-Specifications at the time of writing this modding guide:
+My system specifications at the time of writing:
 
 - **System:** Windows 10 (64-bit version)
 - **Processor:** Intel i5-4690K
 - **Memory:** 16 GB RAM
 - **Graphics:** NVIDIA GTX 970 4GB
+
+Consider these specifications the recommended system requirements.
 
 ## Contributing
 
