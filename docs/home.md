@@ -1,4 +1,4 @@
-# Skyrim Community Edition
+# Home
 
 Skyrim Community Edition (Skyrim CE) is a vanilla+ modding guide for [The Elder Scrolls V: Skyrim Anniversary Edition on GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition).
 
@@ -31,5 +31,6 @@ My system specifications at the time of writing:
 - **Processor:** Intel i5-4690K
 - **Memory:** 16 GB RAM
 - **Graphics:** NVIDIA GTX 970 4GB
+- **Storage:** SSD
 
 Consider these specifications the recommended system requirements.

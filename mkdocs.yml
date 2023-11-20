@@ -4,4 +4,4 @@ theme:
   name: material
 
 nav:
-  - Home: home.md
+  - home.md
