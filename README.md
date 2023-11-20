@@ -31,6 +31,7 @@ My system specifications at the time of writing:
 - **Processor:** Intel i5-4690K
 - **Memory:** 16 GB RAM
 - **Graphics:** NVIDIA GTX 970 4GB
+- **Storage:** SSD
 
 Consider these specifications the recommended system requirements.
 
