@@ -1,0 +1,7 @@
+site_name: Skyrim Community Edition
+
+theme:
+  name: material
+
+nav:
+  - Home: home.md
