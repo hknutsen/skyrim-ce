@@ -18,9 +18,3 @@ Contains recommended Mod Configuration Menu (MCM) settings.
 
 - [ ] Crafting Categories
 - [ ] Item Type Filters
-
-### Obsidian Weathers
-
-#### Config
-
-- [x] REMOVE SPELL
