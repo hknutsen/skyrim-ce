@@ -4,7 +4,7 @@ Skyrim Community Edition (Skyrim CE) is a vanilla+ modding guide for [The Elder 
 
 ## Development
 
-1. Read [this document]().
+1. Read [this document](https://code.visualstudio.com/docs/devcontainers/containers).
 
 1. Open the repository in the development container.
 
