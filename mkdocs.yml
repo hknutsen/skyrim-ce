@@ -40,4 +40,8 @@ theme:
 
 nav:
   - index.md
+  - tools.md
+  - bethini.md
+  - mods.md
   - sselodgen.md
+  - dyndolod.md

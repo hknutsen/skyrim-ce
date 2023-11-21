@@ -1,4 +1,4 @@
-# BethINI
+# Run BethINI
 
 ## Settings
 

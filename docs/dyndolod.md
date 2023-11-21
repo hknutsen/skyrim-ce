@@ -1,4 +1,4 @@
-# DynDOLOD
+# Run DynDOLOD
 
 ## Steps
 

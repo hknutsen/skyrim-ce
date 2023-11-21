@@ -1,4 +1,4 @@
-# SSELODGen
+# Run SSELODGen
 
 ## Generate terrain LOD
 
