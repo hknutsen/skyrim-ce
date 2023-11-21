@@ -1,4 +1,4 @@
-# Home
+# Introduction
 
 Skyrim Community Edition (Skyrim CE) is a vanilla+ modding guide for [The Elder Scrolls V: Skyrim Anniversary Edition on GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition).
 
@@ -7,21 +7,9 @@ Skyrim Community Edition (Skyrim CE) is a vanilla+ modding guide for [The Elder 
 The goal of this modding guide is to achieve the following while maintaining the look and feel of vanilla Skyrim:
 
 - Fix bugs
-- Improve graphical fidelity:
-  - Mountains
-  - Water
-  - Trees
-  - Weather
-  - Lighting
-  - Distant terrain
-  - Distant objects
-- Improve item variety:
-  - Weapons
-  - Armors
-  - Clothing
-- Improve "quality of life":
-  - User interface
-  - Crafting
+- Improve graphical fidelity
+- Improve item variety
+- Improve *quality of life*
 
 ## System requirements
 

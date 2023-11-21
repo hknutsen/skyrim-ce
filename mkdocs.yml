@@ -1,7 +1,7 @@
 site_name: Skyrim Community Edition
 
 repo_name: hknutsen/skyrim-ce
-repo_url: https://github.com/hknutsen/skyhrim-ce
+repo_url: https://github.com/hknutsen/skyrim-ce
 
 theme:
   name: material
