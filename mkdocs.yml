@@ -2,6 +2,9 @@ site_name: Skyrim Community Edition
 
 theme:
   name: material
+  features:
+    - navigation.footer
 
 nav:
-  - home.md
+  - index.md
+  - sselodgen.md
