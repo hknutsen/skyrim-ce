@@ -1,39 +1,40 @@
 # SSELODGen
 
-## Settings
+## Generate terrain LOD
 
-> **Note**
->
-> Enable the `xLODGen Resource - SSE Terrain Tamriel` mod before generating terrain LOD.
-> Disable it once terrain LOD generation is finished.
+1. Enable the `xLODGen Resource - SSE Terrain Tamriel` mod.
 
-<details><summary>Show LOD4 options</summary>
+1. Run the `SSELODGen` executable.
 
-![SSELODGen LOD4 options](../img/sselodgen-lod4.png)
+1. Select all worldspaces.
 
-</details>
+1. Select `Terrain LOD`.
 
-<details><summary>Show LOD8 options</summary>
+1. Set LOD4 options:
 
-![SSELODGen LOD8 options](../img/sselodgen-lod8.png)
+    ![SSELODGen LOD4 options](img/sselodgen-lod4.png)
 
-</details>
+1. Set LOD8 options:
 
-<details><summary>Show LOD16 options</summary>
+    ![SSELODGen LOD8 options](img/sselodgen-lod8.png)
 
-![SSELODGen LOD16 options](../img/sselodgen-lod16.png)
+1. Set LOD16 options:
 
-</details>
+    ![SSELODGen LOD16 options](img/sselodgen-lod16.png)
 
-<details><summary>Show LOD32 options</summary>
+1. Set LOD32 options:
 
-![SSELODGen LOD32 options](../img/sselodgen-lod32.png)
+    ![SSELODGen LOD32 options](img/sselodgen-lod32.png)
 
-</details>
+1. Click `Generate`.
 
-LOD generation time: ~30 minutes.
+    LOD generation time: ~30 minutes.
 
-### Reset settings
+1. Once LOD generation is complete, close SSELODGen.
+
+1. Disable the `xLODGen Resource - SSE Terrain Tamriel` mod.
+
+## Reset settings
 
 If Skyrim was installed to `C:\GOG Games\Skyrim Special Edition`, delete the following file:
 
