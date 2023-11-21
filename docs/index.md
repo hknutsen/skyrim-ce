@@ -8,20 +8,20 @@ The goal of this modding guide is to achieve the following while maintaining the
 
 - Fix bugs
 - Improve graphical fidelity:
-    - Mountains
-    - Water
-    - Trees
-    - Weather
-    - Lighting
-    - Distant terrain
-    - Distant objects
+  - Mountains
+  - Water
+  - Trees
+  - Weather
+  - Lighting
+  - Distant terrain
+  - Distant objects
 - Improve item variety:
-    - Weapons
-    - Armors
-    - Clothing
+  - Weapons
+  - Armors
+  - Clothing
 - Improve "quality of life":
-    - User interface
-    - Crafting
+  - User interface
+  - Crafting
 
 ## System requirements
 
