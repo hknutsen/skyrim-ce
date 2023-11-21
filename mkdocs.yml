@@ -12,11 +12,6 @@ theme:
   - navigation.top # Enables "back-to-top" button.
   - navigation.footer # Enables "previous" and "next" navigation buttons in footer
 
-theme:
-  name: material
-  features:
-    - navigation.footer
-
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
