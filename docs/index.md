@@ -7,8 +7,8 @@ Skyrim Community Edition (Skyrim CE) is a vanilla+ modding guide for [The Elder 
 The goal of this modding guide is to achieve the following while maintaining the look and feel of vanilla Skyrim:
 
 - Fix bugs
-- Improve graphical fidelity
-- Improve item variety
+- Improve graphical fidelity (meshes, distant terrain and objects)
+- Improve item variety (weapons, armor and clothing)
 - Improve *quality of life*
 
 ## System requirements
